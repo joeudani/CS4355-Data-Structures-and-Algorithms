@@ -1,5 +1,3 @@
-package AssignmentFiles;
-
 import java.util.ArrayList;
 import java.util.Collections; // allows us to use .sort method
 

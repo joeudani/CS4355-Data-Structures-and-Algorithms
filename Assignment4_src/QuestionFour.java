@@ -1,5 +1,3 @@
-package AssignmentCode;
-
 /*
  * This program uses two binary search functions to find a given target value's starting and ending
  * position in a sorted array of integers.

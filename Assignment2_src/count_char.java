@@ -1,5 +1,3 @@
-package SourceCode;
-
 import java.util.Scanner;
 public class count_char {
     public static int countChar(String inputString, char charTarget) {

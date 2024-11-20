@@ -1,5 +1,3 @@
-package source_code;
-
 import java.util.Scanner;
 public class LLMethodsDriverCode {
     public static void main(String[] args) {

@@ -1,4 +1,3 @@
-package AssignmentCode;
 /*
  * This program finds a target value in an array which is sorted in descending order, without sorted to ascending order first.
  * The main change to the binary search algorithm are the two comparisons.

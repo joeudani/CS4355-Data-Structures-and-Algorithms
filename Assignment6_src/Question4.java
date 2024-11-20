@@ -6,7 +6,6 @@
  * Check to see if the current character is an operator, if it is pop two values off the stack and apply the operator to them.
  * Continue until the stack is empty.
  */
-package source_code;
 import java.util.Stack;
 import java.util.Scanner;
 

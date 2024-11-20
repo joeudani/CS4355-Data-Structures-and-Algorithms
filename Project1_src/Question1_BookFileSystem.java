@@ -1,5 +1,3 @@
-package source_code;
-
 import java.io.*;
 import java.util.Comparator;
 import java.util.Scanner;

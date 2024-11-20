@@ -1,5 +1,3 @@
-package source_code;
-
 public class Question2 {
     /*
      * This program uses insertion sort to sort a random array of integers.

@@ -1,5 +1,3 @@
-package source_code;
-
 import java.util.Scanner;
 
 public class Question2_LCS {

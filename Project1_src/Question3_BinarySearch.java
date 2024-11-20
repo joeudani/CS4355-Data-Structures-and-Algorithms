@@ -1,4 +1,3 @@
-package source_code;
 import java.util.Scanner;
 
 public class Question4_BinarySearch {

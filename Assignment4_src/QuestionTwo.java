@@ -1,5 +1,3 @@
-package AssignmentCode;
-
 /*
  * This program finds the number of words between two target words in an array.
  * It uses recursive binary search to find the index of each target string, then calculates the number of words between them.

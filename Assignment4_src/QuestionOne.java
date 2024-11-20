@@ -1,4 +1,3 @@
-package AssignmentCode;
 /*
  * This program implements a recursive binary search to locate a target in a sorted array.
  * The segment of the array left over from each recursive call is displayed.

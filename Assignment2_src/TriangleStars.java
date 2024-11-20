@@ -1,5 +1,3 @@
-package SourceCode;
-
 import java.util.Scanner;
 
 public class TriangleStars {

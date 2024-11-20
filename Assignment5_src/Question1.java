@@ -1,5 +1,3 @@
-package source_code;
-
 public class Question1 {
     /*
      * This program uses selection sort to sort a random array of integers in ascending order..

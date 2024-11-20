@@ -1,5 +1,3 @@
-package source_code;
-
 class ListNode {
     // List node class holds the data of a node with a reference to the next node in the list
 

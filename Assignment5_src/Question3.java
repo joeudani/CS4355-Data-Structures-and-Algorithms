@@ -1,5 +1,3 @@
-package source_code;
-
 public class Question3 {
     /*
      * This program uses bubble sort to sort an array of integers.

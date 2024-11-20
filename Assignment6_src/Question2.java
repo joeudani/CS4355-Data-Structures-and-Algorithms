@@ -1,5 +1,3 @@
-package source_code;
-
 /*
  * This program allows the user to enter 10 integers that will be enqueued onto a queue (q2).
  * After 10 items are added, queue operations are used to display various aspects of the queue.

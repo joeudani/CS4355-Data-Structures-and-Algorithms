@@ -1,5 +1,3 @@
-package source_code;
-
 /*
  * This program implements the Merge Sort algorithm to sort an array of integers in descending order.
  * Merge Sort splits the array into two halves, recursively sorts them,

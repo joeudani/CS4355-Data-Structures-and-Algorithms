@@ -3,8 +3,6 @@
  * The two main functions replaceNinesInQueue and replaceNinesInStack are implemented in the main method,
  * showing the original and modified stack and queue.
  */
-
-package source_code;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;

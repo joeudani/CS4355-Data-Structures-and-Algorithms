@@ -1,5 +1,3 @@
-package source_code;
-
 /*
  * This program allows the user to enter 10 integers that will be pushed onto a stack (s1).
  * After 10 items are pushed, stack operations are used to display various aspects of the stack.
